@@ -19,3 +19,11 @@ https://github.com/2359media/EasyAndroidAnimations
 https://github.com/ophilbert/ActivityTransition
 
 https://github.com/lisawray/passwordview
+https://github.com/jiahuanyu/CircleTimerView
+
+https://github.com/Kaopiz/KProgressHUD
+https://github.com/lzyzsd/CircleProgress
+https://github.com/cdeange/RopeProgressBar
+https://github.com/jlmd/AnimatedCircleLoadingView
+https://github.com/pedant/sweet-alert-dialog
+https://github.com/d-max/spots-dialog
